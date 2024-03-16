@@ -25,7 +25,7 @@ class Lottery {
     
         echo $winningNumbersPhrase;
 
-        echo "Attention ! ! ! , les 5 premières grilles de chaque personne sont prises en compte. \n\n\n";
+        echo "Attention ! ! ! , seulement les 5 premières grilles de chaque personne sont prises en compte. \n\n\n";
     
         // Ajouter le numéro chance à la liste des numéros gagnants
         $winningNumbers[] = $randomLuckyNumber;

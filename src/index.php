@@ -16,6 +16,7 @@
           Télécharger un fichier CSV
         </div>
         <div class="card-body">
+          <h6 class="text-danger">Attention ! ! ! , seulement les 5 premières grilles de chaque personne sont prises en compte.</h6>
           <form action="Controllers/LotteryController.php" method="post" enctype="multipart/form-data">
             <div class="form-group">
               <label for="csvFile">Sélectionner votre fichier CSV de joueurs :</label>
