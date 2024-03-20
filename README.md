@@ -1,1 +1,2 @@
 # lottery_project
+Ce projet est une application de loterie qui permet de tirer aléatoirement des numéros gagnants et de déterminer les gagnants parmi les participants. Il prend en charge l'importation de données des joueurs à partir d'un fichier CSV, effectue le tirage des numéros gagnants et enregistre les résultats dans un fichier CSV. L'objectif est de fournir une solution simple et efficace pour organiser des loteries et déterminer les gagnants rapidement.
